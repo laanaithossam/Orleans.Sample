@@ -1,0 +1,10 @@
+packages/
+OrleanSilo.Interfaces/obj/
+OrleanSilo.Interfaces/bin/
+OrleanSilo.Server/bin/Debug/Microsoft.CodeAnalysis.CSharp.xml
+OrleanSilo.Server/bin/
+OrleanSilo.Grains/bin/
+OrleanSilo.Server/obj/
+OrleanSilo.Client/bin/
+OrleanSilo.Client/obj/
+OrleanSilo.Grains/obj/
